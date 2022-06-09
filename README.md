@@ -1,5 +1,8 @@
 # T37Rickymorty
 
+![image](https://user-images.githubusercontent.com/83656143/172782651-44376205-7248-4cd2-a277-1378a8546821.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
